@@ -1,0 +1,17 @@
+.storewrapper{ 
+    background-color: lightgrey;
+    padding: 70px;
+}
+.white-storewrapper{ 
+    background-color: white;
+    padding: 70px;
+}
+
+p{
+    p {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+      }
+}
